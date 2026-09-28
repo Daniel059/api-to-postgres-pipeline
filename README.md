@@ -8,7 +8,7 @@ A modular, production-style data engineering pipeline built in Python. It extrac
 
 ---
 
-## 🏗️ Technical Architecture
+##  Technical Architecture
 
 ```text
   +-----------------------+
@@ -36,7 +36,7 @@ A modular, production-style data engineering pipeline built in Python. It extrac
 
 ---
 
-## 🛠️ Tech Stack & Key Tools
+##  Tech Stack & Key Tools
 
 | Category | Tools |
 |---|---|
